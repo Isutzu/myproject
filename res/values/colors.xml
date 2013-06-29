@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="canvasBackground">#F3DFD9</color>
+    <color name="pushBackground">#CCB950</color>
+    <color name="clearBackground">#99DED1</color>
+</resources>
